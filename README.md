@@ -36,7 +36,7 @@ Tasks:
 
 - [ ] Create a subfolder in the repository root for your first code project.
 - [ ] From a terminal, use `npm init` inside that subfolder to create a new project. If done correctly, the subfolder will now contain a single file called `package.json`.
-- [ ] Create a first project that will 
+- [ ] Create a first project that will output some text of your own choice to the screen.
 
 ## Code lessons
 
