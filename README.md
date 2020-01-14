@@ -36,10 +36,12 @@ Tasks:
 
 - [ ] Create a subfolder in the repository root for your first code project.
 - [ ] From a terminal, use `npm init` inside that subfolder to create a new project. If done correctly, the subfolder will now contain a single file called `package.json`.
-- [ ] Create a first project that will output some text of your own choice to the screen.
+- [ ] In your `package.json` file, you can see an `entrypoint` name. Create this file in the same folder.
+- [ ] Write some code in the new javascript file. Make it output a message. Use `console.log(message)`.
 
 ## Code lessons
 
 - `console.log`
 - `let` / `const`
 - data types: `string`, `number`, `boolean`, `array`, `object`, `undefined` and `function`. We also have `bigint` and `symbol` for later lessons. Finally, we have `null` as a special value, but it is of type `object`.
+- Control flow: `if`/`else`, `for`, `for-of`.
